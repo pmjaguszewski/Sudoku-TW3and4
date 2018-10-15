@@ -1,4 +1,4 @@
-
+#nowy komentarz 
 import os
 
 def main():          
