@@ -1,4 +1,5 @@
 #nowy komentarz 
+#drugi nowy komentarz
 import os
 
 def main():          
